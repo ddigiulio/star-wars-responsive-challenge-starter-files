@@ -1,0 +1,27 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+
+  padding-top: 20px;
+  border: solid 1px;
+}
+
+.portrait{
+	width: 100%;
+}
+
+.caption{
+	padding: 20px;
+}
+
+header{
+	background-color: orange;
+	margin-bottom: 30px;
+
+}
